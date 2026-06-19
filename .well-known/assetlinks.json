@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.paulwebster44.teleprompter",
+    "sha256_cert_fingerprints": [
+      "4E:EC:5D:27:DF:28:F6:82:93:14:BD:59:94:28:20:05:09:B5:F8:15:F4:F1:90:16:EE:7F:13:D5:ED:B9:A4:36"
+    ]
+  }
+}]
